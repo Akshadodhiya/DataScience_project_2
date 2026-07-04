@@ -123,7 +123,6 @@ Project-2-Order-Status-Prediction/
 ├── Order_Status_Prediction.ipynb
 ├── Cleaned_Dataset.xlsx
 ├── README.md
-└── requirements.txt
 ```
 
 ---
